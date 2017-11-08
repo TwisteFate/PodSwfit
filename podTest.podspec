@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'podTest'
-  s.version          = '0.1.0'
+  s.name             = 'podTFTest'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of podTest.'
 
 # This description is used to generate tags and improve search results.
